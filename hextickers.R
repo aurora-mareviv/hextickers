@@ -21,6 +21,6 @@ sticker(imgurl, package="r-users.gal", p_size=25, s_x=1, s_y=.76, s_width=.52,
 
 # package mthapower
 imgurl <- paste(wdir, "/images/logo-mthapower.png", sep="")
-sticker(imgurl, package="mthapower", p_size=20, s_x=1, s_y=1, s_width=.8,
+sticker(imgurl, package="mthapower", p_size=25, s_x=1, s_y=1, s_width=.8,
         h_fill="#73c46c", h_color="#4ea500",
         filename="./stickers/mthapower.png")
