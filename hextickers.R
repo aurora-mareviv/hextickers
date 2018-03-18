@@ -10,12 +10,12 @@ wdir <- getwd()
 
 # r-users.gal
 imgurl <- paste(wdir, "/images/rlogo.png", sep="")
-sticker(imgurl, package="r-users.gal", p_size=8, s_x=1, s_y=.76, s_width=.52,
+sticker(imgurl, package="r-users.gal", p_size=20, s_x=1, s_y=.76, s_width=.52,
         h_fill="#d21423", h_color="#1d53b0",
         filename="./stickers/r_usersgal.png")
 
 imgurl <- paste(wdir, "/images/rlogo3.png", sep="")
-sticker(imgurl, package="r-users.gal", p_size=8, s_x=1, s_y=.76, s_width=.52,
+sticker(imgurl, package="r-users.gal", p_size=20, s_x=1, s_y=.76, s_width=.52,
         h_fill="#d21423", h_color="#1d53b0",
         filename="./stickers/rgal17c.png")
 
